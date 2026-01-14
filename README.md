@@ -1,5 +1,5 @@
 Project UAS Mata Kuliah Machine Learning  
-Nama: Gia Khansa  
+Nama: Gia Khansa Khairunnisa
 Studi Kasus: Prediksi Harga Motor Bekas  
 
 ## Deskripsi
