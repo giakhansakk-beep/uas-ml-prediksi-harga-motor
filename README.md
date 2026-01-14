@@ -1,5 +1,6 @@
 Project UAS Mata Kuliah Machine Learning  
 Nama: Gia Khansa Khairunnisa
+NPM : 2441062
 Studi Kasus: Prediksi Harga Motor Bekas  
 
 ## Deskripsi
